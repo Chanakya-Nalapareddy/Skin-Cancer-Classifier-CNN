@@ -97,8 +97,9 @@ The structure of the final project folder
     │   ├── cnn_gray_kernels.py
     │   └── cnn_gray_layers_kernels.py
     └── preprocessing
-        ├── augmentation.py
-        └── preprocessing.py
+    |   ├── augmentation.py
+    |   └── preprocessing.py
+    └── result
 ```
 
 ## Running the Project
